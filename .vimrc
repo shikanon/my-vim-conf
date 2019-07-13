@@ -1,8 +1,3 @@
-# my-vim-conf
-我的VIM配置
-
-## 配置
-```
 nmap <C-b>n  :bnext<CR>;
 nmap <C-b>p  :bprev<CR>;
 
@@ -390,6 +385,3 @@ let g:DoxygenToolkit_briefTag_funcName="yes"
 "
 "Python{{{1
 let g:pydiction_location = '~/.vim/tools/pydiction/complete-dict'
-
-
-```
